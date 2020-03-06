@@ -1,5 +1,5 @@
 import  java.lang.*;
-public class Car
+public class JavaFile
 {
 	public static void main(String args[])
 	{
